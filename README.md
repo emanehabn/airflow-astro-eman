@@ -7,7 +7,7 @@ astro dev start
 
 
 
-
+![airflow output after triggering the DAG](./airflow_out_dags.png)
 
 
 
